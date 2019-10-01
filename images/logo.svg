@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.729795in" height="0.166661in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 69 16"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M0 0l69 0 0 16 -69 0 0 -16z"/>
+   </clipPath>
+     <clipPath id="id1">
+      <path d="M15 4l52 0 0 7 -52 0 0 -7z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M0 0l69 0 0 16 -69 0 0 -16z"/>
+     </clipPath>
+     <clipPath id="id3">
+      <path d="M19 3l32 0 0 12 -32 0 0 -12z"/>
+     </clipPath>
+     <clipPath id="id4">
+      <path d="M0 0l69 0 0 16 -69 0 0 -16z"/>
+     </clipPath>
+     <clipPath id="id5">
+      <path d="M53 3l3 0 0 8 -3 0 0 -8z"/>
+     </clipPath>
+     <clipPath id="id6">
+      <path d="M0 0l69 0 0 16 -69 0 0 -16z"/>
+     </clipPath>
+     <clipPath id="id7">
+      <path d="M2 0l12 0 0 15 -12 0 0 -15z"/>
+     </clipPath>
+     <clipPath id="id8">
+      <path d="M0 0l69 0 0 16 -69 0 0 -16z"/>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_812317648">
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image id="F_x0020_ne_x2019_O_x0020_D_x0020_ne" x="15" y="4" width="51.1349" height="6.97297" xlink:href="logo_Images\logo_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+    </g>
+    <g style="clip-path:url(#id3)">
+     <image id="Layer_x0020_2" x="19" y="3" width="32.2302" height="12.7059" xlink:href="logo_Images\logo_ImgID2.png"/>
+    </g>
+    <g style="clip-path:url(#id4)">
+    </g>
+    <g style="clip-path:url(#id5)">
+     <image id="Layer_x0020_4" x="53" y="3" width="2.94373" height="7.74754" xlink:href="logo_Images\logo_ImgID3.png"/>
+    </g>
+    <g style="clip-path:url(#id6)">
+    </g>
+    <g style="clip-path:url(#id7)">
+     <image id="Layer_x0020_5" x="2" y="0" width="11.7764" height="15.3402" xlink:href="logo_Images\logo_ImgID4.png"/>
+    </g>
+    <g style="clip-path:url(#id8)">
+    </g>
+   </g>
+  </g>
+  <polygon class="fil0" points="0,0 69,0 69,16 0,16 "/>
+ </g>
+</svg>
