@@ -17,11 +17,5 @@ git clone https://github.com/yukta12/fine-Odine.git
 - Any php processing server(apache2/nginx)
 
 ## Images
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/login.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/register.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home2.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home3.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/detail.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/booking.png" width="600">
-<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/message.png" width="300">
+<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/login.png" width="400"><img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/register.png" width="400"><img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home.png" width="400"><img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home2.png" width="400"><img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/home3.png" width="400">
+<img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/detail.png" width="400"><img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/booking.png" width="400"> <img src="https://github.com/yukta12/fine-Odine/blob/master/images/screenshots/message.png" width="200">
